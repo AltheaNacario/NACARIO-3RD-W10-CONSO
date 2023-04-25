@@ -1,0 +1,18 @@
+<html>
+ <head>
+  <title>Job Desc 3</title>
+ </head>
+ <body bgcolor="white">
+  <hr color="#D5F2FE" align="center" width="100%">
+  <hr color="#D5F2FE" align="center" width="100%">
+   <ul type="circle">
+    <li>Envisions and develops artwork for animals, characters, vehicles, settings, and other creative materials</li>
+    <li>Sketch, brainstorm, and refine ideas through concepts for gameplay, environments, props, user interface elements, and characters.</li>
+	<li>Develop detailed concept art, paint-overs, storyboards, and orthographic concepts for 3D artists, and animators.</li>
+   </ul>
+  <hr color="#D5F2FE" align="center" width="100%">
+  <hr color="#D5F2FE" align="center" width="100%">
+ </body>
+</html>
+	
+ 

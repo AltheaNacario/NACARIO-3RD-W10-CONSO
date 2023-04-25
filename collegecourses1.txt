@@ -1,0 +1,25 @@
+<html>
+ <head>
+  <title>Courses 1</title>
+ </head>
+ <body bgcolor="white">
+  <hr color="#D5F2FE" align="center" width="100%">
+  <hr color="#D5F2FE" align="center" width="100%">
+   <ul type="circle">
+    <li>Accounting</li>
+    <li>Entrepreneurship</li>
+    <li>Finance</li>
+    <li>Healthcare administration</li>
+    <li>Human resources</li>
+    <li>International business</li>
+    <li>Marketing</li>
+    <li>Project management</li>
+    <li>Public administration</li>
+    <li>Sports management</li>
+   </ul>
+  <hr color="#D5F2FE" align="center" width="100%">
+  <hr color="#D5F2FE" align="center" width="100%">
+ </body>
+</html>
+	
+ 

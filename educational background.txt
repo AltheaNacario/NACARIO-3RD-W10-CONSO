@@ -1,0 +1,39 @@
+<html>
+ <head>
+   <title>Nacario - Educational Background</title>
+ </head>
+ <body>
+  <h3>COLLEGE</h3>
+  <p>
+    <i>Degree | Months/Years stay</i>
+  </p>
+  <p>Adress of the School</p>
+  <p>
+    <b>
+	  <a href="collegecourses.html" target="rightsidebar">Courses Covered</a>
+	</b>
+  </p>
+  
+  <h3>HIGH SCHOOL</h3>
+  <p>
+    <i>Degree | Months/Years stay</i>
+  </p>
+  <p>Adress of the School</p>
+  <p>
+    <b>
+	  <a href="collegecourses.html" target="rightsidebar">Courses Covered</a>
+	</b>
+  </p>
+  
+  <h3>ELEMENTARY</h3>
+  <p>
+    <i>Degree | Months/Years stay</i>
+  </p>
+  <p>Adress of the School</p>
+  <p>
+    <b>
+	  <a href="collegecourses.html" target="rightsidebar">Courses Covered</a>
+	</b>
+  </p>
+ </body>
+</html>

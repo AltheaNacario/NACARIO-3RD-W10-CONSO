@@ -1,0 +1,17 @@
+<html>
+<head>
+  <title>ALTHEA JASMINE C. NACARIO-W10-CONSO-NAV</title>
+  <link rel="stylesheet" href="style.css">
+  </link>
+</head>
+<body>
+<table align="center" width="50%">
+ <tr>
+   <th><a href="work experience.html" target="work">Work Experience</a></th>
+   <th><a href="educational background.html" target="work">Educational Background</a></th>
+   <th><a href="services.html" target="work">Services Offered</a></th>
+   <th><a href="portfolio.html" target="work">Portfolio</a></th>
+ </tr>
+</table>
+</body>
+</html>

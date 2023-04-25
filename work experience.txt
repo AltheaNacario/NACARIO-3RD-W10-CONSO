@@ -1,0 +1,39 @@
+<html>
+<head>
+ <title>Nacario - Work Experience</title>
+</head>
+
+<body>
+
+ <h3> COMPANY NAME 1 </h3>
+ <p>
+   <i>Position | Months/Years stay</i>
+ </p>
+ <p>
+   <b>
+     <a href="companyjob1.html" target="rightsidebar">Job Description</a>
+   </b>
+ </p>
+
+ <h3> COMPANY NAME 2 </h3>
+ <p>
+   <i>Position | Months/Years stay</i>
+ </p>
+ <p>
+   <b>
+     <a href="companyjob2.html" target="rightsidebar">Job Description</a>
+   </b>
+ </p>
+
+ <h3> COMPANY NAME 3 </h3>
+ <p>
+   <i>Position | Months/Years stay</i>
+ </p>
+ <p>
+   <b>
+     <a href="companyjob3.html" target="rightsidebar">Job Description</a>
+   </b>
+ </p>
+
+</body>
+</html>

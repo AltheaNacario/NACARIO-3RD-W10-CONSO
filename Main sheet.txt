@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>ALTHEA JASMINE C. NACARIO-W10-CONSO</title>
+</head>
+
+  <frameset rows="15%,3%,30%,5%">
+    <frame src="header frame.html" name="Header"/>
+    <frame src="navigation frame.html" name="Navigation"/>
+
+  <frameset cols="10%, 20%">
+    <frame src="left side frame.html" name="LeftSideFrame"/>
+    <frame src="right side frame.html" name="RightSideFrame"/>
+  </frameset>
+
+    <frame src="foot frame.html" name="Foot"/>
+  </frameset>
+</html>

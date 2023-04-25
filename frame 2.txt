@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Frame </title>
+</head
+<body>
+<h2> Menu </h2>
+<body bgcolor="#9AFCCC">
+<ul>
+<li><a href="Dinuguan.html" target="frame"> Dinuguan </a>
+<li><a href="Sisig.html" target="frame"> Sisig </a>
+<li><a href="Pinakbet.html" target="frame"> Pinakbet </a>
+</ul>
+</body>
+</html>
